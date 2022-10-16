@@ -10,18 +10,18 @@ global.Api = {
 global.ApiKey = 'coderevolution' //JIKA INGIN MENDAPATKAN KOMISI DAFTAR DI HTTPS://AMPIBISMM.MY.ID UNTUK MENDAPATKAN APIKEY!
 
 global.smm = {
-  nomor : '6283102650464',
-  atasnama : 'Ahmad Nur Fadhil'
+  nomor : '6282129801595',
+  atasnama : 'Muhammad Alamsyah Zidane Zidan'
 }
 
 // Other
-global.owner = ['6283102650464',"6282135724604"]
-global.premium = ['6283102650464']
-global.profilebio = ['6283102650464'] // ini ganti nomor lu ntar bisa nampilin pp lu
+global.owner = ['6282129801595',"62895708744800"]
+global.premium = ['6282129801595']
+global.profilebio = ['6282129801595'] // ini ganti nomor lu ntar bisa nampilin pp lu
 global.sponsor = 'no sponsors in:('
-global.packname = 'Crizzy-Bot'
-global.footer = '© 2022 Fadhil Graphy'
-global.author = 'Owner : Fadhil Graphy\nIg1 : @fdhlgrphy\nIg2 : @nr.fdhl__'
+global.packname = 'Mazz-Bot'
+global.footer = '© 2022 Zidan Graphy'
+global.author = 'Owner : Zidan Graphy\nIg1 : @zdngrphy\nIg2 : @nr.zdn__'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.act = {
 		wait: 'please wait a moment, processing data...',
